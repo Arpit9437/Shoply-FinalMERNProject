@@ -1,4 +1,9 @@
-Name: Arpit Kaple
-Section: B
-Roll number: 26
-Sem 4 Honors Final Project
+4th Sem CSE HONORS(CSTH401: Full Stack-1)
+
+Admin Credentials: 
+email -> admin@gmail.com
+password -> admin123
+
+User Credentials:
+email -> arpit@gmail.com
+password -> arpit123
